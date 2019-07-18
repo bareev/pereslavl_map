@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="56.509644058409201" minlon="38.287568092346199" maxlat="56.697225277115002" maxlon="38.663506507873500"/></metadata>                  
+<trk>
+  <name>genstab_500.jpg</name>
+  <extensions>
+    <ogr:icon>genstab_500.jpg</ogr:icon>
+  </extensions>
+  <trkseg>
+    <trkpt lat="56.6972134954931" lon="38.4755158424377">
+    </trkpt>
+    <trkpt lat="56.6035511042517" lon="38.4755158424377">
+    </trkpt>
+    <trkpt lat="56.6035511042517" lon="38.2875680923462">
+    </trkpt>
+    <trkpt lat="56.6972134954931" lon="38.2875680923462">
+    </trkpt>
+    <trkpt lat="56.6972134954931" lon="38.4755158424377">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
