@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<wpt lat="56.536305" lon="38.364761">
+		<name>БМ5</name>
+	</wpt>
+	<wpt lat="56.539142" lon="38.357801">
+		<name>035</name>
+	</wpt>
+	<wpt lat="56.539315" lon="38.356772">
+		<name>036</name>
+	</wpt>
+	<wpt lat="56.544072" lon="38.347295">
+		<name>037</name>
+	</wpt>
+	<wpt lat="56.543961" lon="38.346307">
+		<name>038</name>
+	</wpt>
+	<wpt lat="56.544495" lon="38.345311">
+		<name>РЧ9</name>
+	</wpt>
+	<wpt lat="56.546010" lon="38.344478">
+		<name>ВЫР</name>
+	</wpt>
+	<wpt lat="56.545383" lon="38.346703">
+		<name>ОТЛОШ</name>
+	</wpt>
+	<wpt lat="56.546099" lon="38.350047">
+		<name>ЛОШ</name>
+	</wpt>
+	<wpt lat="56.544564" lon="38.351526">
+		<name>ЛОЩ</name>
+	</wpt>
+	<wpt lat="56.545649" lon="38.351751">
+		<name>РАЗБ</name>
+	</wpt>
+	<wpt lat="56.547541" lon="38.352190">
+		<name>ППБГ</name>
+	</wpt>
+	<wpt lat="56.547302" lon="38.350148">
+		<name>ЛЩ9</name>
+	</wpt>
+	<wpt lat="56.549175" lon="38.352460">
+		<name>ПМ9</name>
+	</wpt>
+	<wpt lat="56.551386" lon="38.352868">
+		<name>РЧ9</name>
+	</wpt>
+	<wpt lat="56.552426" lon="38.352980">
+		<name>ЛШ9</name>
+	</wpt>
+	<wpt lat="56.552124" lon="38.349587">
+		<name>ЛШ9</name>
+	</wpt>
+	<wpt lat="56.551960" lon="38.348122">
+		<name>ПБ9</name>
+	</wpt>
+	<wpt lat="56.551254" lon="38.347248">
+		<name>РЧ9</name>
+	</wpt>
+	<wpt lat="56.551783" lon="38.342679">
+		<name>039</name>
+	</wpt>
+	<wpt lat="56.552250" lon="38.341411">
+		<name>СТ0</name>
+	</wpt>
+	<wpt lat="56.555224" lon="38.337276">
+		<name>РЗ0</name>
+	</wpt>
+	<wpt lat="56.556497" lon="38.338105">
+		<name>ББ0</name>
+	</wpt>
+	<wpt lat="56.556514" lon="38.336467">
+		<name>РЧ0</name>
+	</wpt>
+	<wpt lat="56.559650" lon="38.337005">
+		<name>РЗ0</name>
+	</wpt>
+	<wpt lat="56.560675" lon="38.337779">
+		<name>ЛМ0</name>
+	</wpt>
+	<wpt lat="56.561164" lon="38.337536">
+		<name>БМ0</name>
+	</wpt>
+	<wpt lat="56.561657" lon="38.337278">
+		<name>040</name>
+	</wpt>
+	<wpt lat="56.561682" lon="38.337279">
+		<name>ПМ1</name>
+	</wpt>
+	<wpt lat="56.563408" lon="38.337934">
+		<name>041</name>
+	</wpt>
+	<wpt lat="56.563446" lon="38.338023">
+		<name>ЛЩ2</name>
+	</wpt>
+	<wpt lat="56.563564" lon="38.338828">
+		<name>042</name>
+	</wpt>
+	<wpt lat="56.563070" lon="38.340447">
+		<name>043</name>
+	</wpt>
+	<wpt lat="56.563620" lon="38.340626">
+		<name>044</name>
+	</wpt>
+	<wpt lat="56.565204" lon="38.341338">
+		<name>ПРОС</name>
+	</wpt>
+	<wpt lat="56.565394" lon="38.346501">
+		<name>БМ5</name>
+	</wpt>
+	<wpt lat="56.564282" lon="38.350012">
+		<name>ПМ5</name>
+	</wpt>
+	<wpt lat="56.564283" lon="38.350557">
+		<name>ПРО</name>
+	</wpt>
+	<wpt lat="56.564649" lon="38.355436">
+		<name>ИСЧ</name>
+	</wpt>
+	<wpt lat="56.564616" lon="38.355738">
+		<name>ЯММ</name>
+	</wpt>
+	<wpt lat="56.564620" lon="38.356231">
+		<name>РЧ5</name>
+	</wpt>
+	<wpt lat="56.565081" lon="38.358358">
+		<name>СЛИ</name>
+	</wpt>
+	<wpt lat="56.565260" lon="38.361757">
+		<name>БМ5</name>
+	</wpt>
+	<wpt lat="56.565370" lon="38.363291">
+		<name>БМ5</name>
+	</wpt>
+	<wpt lat="56.565313" lon="38.365902">
+		<name>ББО</name>
+	</wpt>
+	<wpt lat="56.565145" lon="38.369496">
+		<name>ПМ5</name>
+	</wpt>
+	<wpt lat="56.564847" lon="38.370058">
+		<name>ПОТ</name>
+	</wpt>
+	<wpt lat="56.566767" lon="38.372449">
+		<name>045</name>
+	</wpt>
+	<wpt lat="56.566811" lon="38.372862">
+		<name>ПМ6</name>
+	</wpt>
+	<wpt lat="56.567330" lon="38.373516">
+		<name>ББ6</name>
+	</wpt>
+	<wpt lat="56.568091" lon="38.374663">
+		<name>046</name>
+	</wpt>
+	<wpt lat="56.568964" lon="38.375218">
+		<name>ББ7</name>
+	</wpt>
+	<wpt lat="56.574117" lon="38.374215">
+		<name>ТР7</name>
+	</wpt>
+	<wpt lat="56.574813" lon="38.376024">
+		<name>047</name>
+	</wpt>
+	<wpt lat="56.572672" lon="38.373992">
+		<name>РАЗ</name>
+	</wpt>
+	<wpt lat="56.567634" lon="38.376033">
+		<name>ББ8</name>
+	</wpt>
+	<wpt lat="56.559117" lon="38.369076">
+		<name>АББ</name>
+	</wpt>
+	<wpt lat="56.560771" lon="38.380467">
+		<name>048</name>
+	</wpt>
+	<wpt lat="56.561102" lon="38.382979">
+		<name>049</name>
+	</wpt>
+	<wpt lat="56.560387" lon="38.388679">
+		<name>050</name>
+	</wpt>
+	<wpt lat="56.559660" lon="38.389601">
+		<name>ББ1</name>
+	</wpt>
+	<wpt lat="56.558494" lon="38.396505">
+		<name>БМ1</name>
+	</wpt>
+	<wpt lat="56.558485" lon="38.398405">
+		<name>051</name>
+	</wpt>
+	<wpt lat="56.556732" lon="38.402216">
+		<name>БОТ</name>
+	</wpt>
+	<wpt lat="56.556342" lon="38.403375">
+		<name>052</name>
+	</wpt>
+	<wpt lat="56.555939" lon="38.402719">
+		<name>053</name>
+	</wpt>
+	<wpt lat="56.556061" lon="38.404043">
+		<name>РАЗ</name>
+	</wpt>
+	<wpt lat="56.555756" lon="38.404123">
+		<name>ББ4</name>
+	</wpt>
+	<wpt lat="56.554813" lon="38.402383">
+		<name>ПМ4</name>
+	</wpt>
+	<wpt lat="56.554026" lon="38.401238">
+		<name>ЛОШ</name>
+	</wpt>
+	<wpt lat="56.551025" lon="38.391451">
+		<name>СТ4</name>
+	</wpt>
+	<wpt lat="56.551692" lon="38.390555">
+		<name>ББ4</name>
+	</wpt>
+	<wpt lat="56.551764" lon="38.389592">
+		<name>ПМ4</name>
+	</wpt>
+	<wpt lat="56.551203" lon="38.385715">
+		<name>СТ4</name>
+	</wpt>
+	<wpt lat="56.551306" lon="38.376379">
+		<name>СТ4</name>
+	</wpt>
+	<wpt lat="56.547294" lon="38.374705">
+		<name>РАЗ</name>
+	</wpt>
+	<wpt lat="56.547352" lon="38.373502">
+		<name>РЗ4</name>
+	</wpt>
+	<wpt lat="56.547269" lon="38.373000">
+		<name>РЧ4</name>
+	</wpt>
+	<wpt lat="56.547683" lon="38.370744">
+		<name>РЗ4</name>
+	</wpt>
+	<wpt lat="56.543667" lon="38.370433">
+		<name>РЗ4</name>
+	</wpt>
+	<wpt lat="56.540522" lon="38.369649">
+		<name>054</name>
+	</wpt>
+	<wpt lat="56.541877" lon="38.369065">
+		<name>055</name>
+	</wpt>
+	<wpt lat="56.542155" lon="38.368185">
+		<name>РЗ6</name>
+	</wpt>
+	<wpt lat="56.542029" lon="38.366469">
+		<name>ЛОШ</name>
+	</wpt>
+	<wpt lat="56.540862" lon="38.363544">
+		<name>ЛОШ</name>
+	</wpt>
+	<wpt lat="56.540208" lon="38.361417">
+		<name>056</name>
+	</wpt>
+	<wpt lat="56.540181" lon="38.361267">
+		<name>ЛОШ</name>
+	</wpt>
+	<wpt lat="56.540274" lon="38.359967">
+		<name>057</name>
+	</wpt>
+	<wpt lat="56.539299" lon="38.360339">
+		<name>РЗ8</name>
+	</wpt>
+	<wpt lat="56.538909" lon="38.362839">
+		<name>РЧ8</name>
+	</wpt>
+	<wpt lat="56.538505" lon="38.366092">
+		<name>058</name>
+	</wpt>
+</gpx>
